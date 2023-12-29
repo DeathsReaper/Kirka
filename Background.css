@@ -1,0 +1,10 @@
+:root{
+ --bg: url(https://media.discordapp.net/attachments/1172060065734332470/1184979684069474334/UneDPGB6-wallha.com.jpeg?ex=65972bd4&is=6584b6d4&hm=5c776eee936be996994745482f1351122b460eb3216922b47875be67e60b2654&=&format=webp&width=1113&height=626);
+}
+
+.pattern-bg {
+    opacity: 1 !important;
+    background-position: right !important;
+    background-size: 100% !important;
+    background-image: var(--background) !important;
+}
